@@ -20,7 +20,7 @@ Process
 Preparation: Data was standardized and reduced using PCA.
 Algorithms: K-Means, DBSCAN, and agglomerative clustering were applied.
 Evaluation: Silhouette scores determined the best clustering method.
-Results
+Results:
 K-Means achieved the highest silhouette score, identifying four passenger segments.
 ## Cluster Insights
 1. Elite Flyers
